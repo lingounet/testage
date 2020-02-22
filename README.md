@@ -1,9 +1,5 @@
 # Testage
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/lingounet/angular.svg)](https://greenkeeper.io/)
-
-[![Build Status](https://travis-ci.com/lingounet/angular.svg?branch=master)](https://travis-ci.com/lingounet/angular)
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
 ## Development server
