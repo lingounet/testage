@@ -1,0 +1,17 @@
+sudo: required
+addons:
+  chrome: stable
+os:
+  - linux
+dist: xenial
+services:
+  - xvfb
+language: node_js
+node_js:
+  - '12'
+install:
+  - npm install
+script:
+  - npm run lint
+  - npm run build
+  - bash ./.travis-deploy.sh
