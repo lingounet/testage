@@ -1,6 +1,8 @@
 # Testage
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/lingounet/testage.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/lingounet/testage.svg)](https://greenkeeper.io/)[![Build Status](https://travis-ci.org/lingounet/testage.svg?branch=master)](https://travis-ci.org/lingounet/testage)
+
+URL: [https://lingounet.github.io/testage/](https://lingounet.github.io/testage/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
