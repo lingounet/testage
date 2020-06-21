@@ -1,7 +1,6 @@
 # Testage
 
-
-[![Build Status](https://travis-ci.org/lingounet/testage.svg?branch=master)](https://travis-ci.org/lingounet/testage)
+![Build and Deploy](https://github.com/lingounet/testage/workflows/Build%20and%20Deploy/badge.svg)
 
 URL: [https://lingounet.github.io/testage/](https://lingounet.github.io/testage/)
 
