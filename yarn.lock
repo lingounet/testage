@@ -242,10 +242,10 @@
   dependencies:
     tslib "^2.0.0"
 
-"@angular/router@^10.0.2":
-  version "10.2.3"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-10.2.3.tgz#6507c58b61452a79172f47a7a34211c0fedfa55f"
-  integrity sha512-QUVqEOai3hASeMgTXIVo9Ql6EGJ+v0QHs/O+5pFplXGAzMQDpCnrpOuB4FExWxdafiiYfKfLlNvxj0tEJ2gU0w==
+"@angular/router@^11.0.5":
+  version "11.0.5"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-11.0.5.tgz#95d47b3b510f6a49597db64cfd7ef936bb24c402"
+  integrity sha512-mSD4tbzuFH4uBb9vxPQHBUbkIMoWAfVUb7r9gtn3/deOxQbVh08f2gk2iWDN3OQLAa5mNHswuLByAYSw2rPbMA==
   dependencies:
     tslib "^2.0.0"
 
@@ -11491,22 +11491,17 @@ ts-simple-ast@12.4.0:
     tslib "^1.9.0"
     typescript "2.9.1"
 
-tslib@2.0.0, tslib@^2.0.0:
+tslib@2.0.0:
   version "2.0.0"
   resolved "https://bishop.digital-solutions.saint-gobain.com/repository/npm-all/tslib/-/tslib-2.0.0.tgz#18d13fc2dce04051e20f074cc8387fd8089ce4f3"
   integrity sha512-lTqkx847PI7xEDYJntxZH89L2/aXInsyF2luSafe/+0fHOMjlBNXdH6th7f70qxLDhul7KZK0zC8V5ZIyHl0/g==
 
-tslib@^1.10.0, tslib@^1.8.1, tslib@^1.9.0:
-  version "1.11.0"
-  resolved "https://bishop.digital-solutions.saint-gobain.com/repository/npm-all/tslib/-/tslib-1.11.0.tgz#f1f3528301621a53220d58373ae510ff747a66bc"
-  integrity sha512-BmndXUtiTn/VDDrJzQE7Mm22Ix3PxgLltW9bSNLoeCY31gnG2OPx0QqJnuc9oMIKioYrz487i6K9o4Pdn0j+Kg==
-
-tslib@^1.14.1:
+tslib@^1.10.0, tslib@^1.14.1, tslib@^1.8.1, tslib@^1.9.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tslib@^2.0.1:
+tslib@^2.0.0, tslib@^2.0.1:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
