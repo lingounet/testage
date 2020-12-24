@@ -23,7 +23,7 @@
     "@angular/platform-browser-dynamic": "^10.0.2",
     "@angular/router": "^10.0.2",
     "@ngrx/effects": "^9.2.0",
-    "@ngrx/store": "^9.2.0",
+    "@ngrx/store": "^9.2.1",
     "angular-calendar": "^0.28.18",
     "atob": "^2.1.2",
     "browser-detect": "^0.2.28",
