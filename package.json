@@ -34,7 +34,7 @@
     "lodash-es": "^4.17.20",
     "material-community-components": "^10.0.0",
     "moment": "^2.29.1",
-    "pako": "^2.0.2",
+    "pako": "^2.0.3",
     "primeicons": "^4.1.0",
     "primeng": "^11.2.0",
     "rxjs": "^6.6.3",
