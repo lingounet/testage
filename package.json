@@ -31,7 +31,7 @@
     "date-fns": "^2.16.1",
     "file-saver": "^2.0.5",
     "jwt-decode": "^3.1.2",
-    "lodash-es": "^4.17.20",
+    "lodash-es": "^4.17.21",
     "material-community-components": "^10.0.0",
     "moment": "^2.29.1",
     "pako": "^2.0.2",
