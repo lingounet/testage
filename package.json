@@ -33,7 +33,7 @@
     "jwt-decode": "^3.1.2",
     "lodash-es": "^4.17.20",
     "material-community-components": "^10.0.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "pako": "^2.0.2",
     "primeicons": "^4.1.0",
     "primeng": "^11.2.1",
